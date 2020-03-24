@@ -17,6 +17,3 @@ EnrollmentData.attachSchema(EnrollmentDataSchema);
 
 /** Make these objects available to others. */
 export { EnrollmentData, EnrollmentDataSchema };
-
-
-
